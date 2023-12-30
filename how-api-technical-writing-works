@@ -17,3 +17,6 @@ A client asks for some resource, for example a file, and the server sends that f
 The client can be your desktop or laptop computer, mobile phone, or any device you use to connect to the internet. 
 And the server is a bigger computer that stores the data you want (a file in our case).
 
+Suppose you want an image to upload. When you search online for the image you want, an API is working unseen to complete the conversation between the site where you find your image and your local machine.
+
+##How API is edited
