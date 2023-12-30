@@ -1,0 +1,19 @@
+#HoW API Technical Writing Works
+
+If you've come to this page because you are new to technical (tech) writing, or at least new to tech writing for API, welcome. 
+I'm glad to help you get started in this area of tech writing! 
+
+You will likely find it to be a closer working relationship with the developer teams you support.
+
+##What is API?
+
+Let's start with what an API is. 
+API stands for Application Programming Interface. 
+The application can be any software that performs a specific task and the interface is a point where two applications communicate.
+
+One application acts as a client and the other acts as a server. 
+A client asks for some resource, for example a file, and the server sends that file to the client.
+
+The client can be your desktop or laptop computer, mobile phone, or any device you use to connect to the internet. 
+And the server is a bigger computer that stores the data you want (a file in our case).
+
