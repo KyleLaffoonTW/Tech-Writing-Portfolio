@@ -19,4 +19,16 @@ And the server is a bigger computer that stores the data you want (a file in our
 
 Suppose you want an image to upload. When you search online for the image you want, an API is working unseen to complete the conversation between the site where you find your image and your local machine.
 
-##How API is edited
+##How API documentation is created and edited
+
+>API technical writers have a procedure that they follow to structure data. The process includes hours of research, time spent on compiling data, analyzing it, and writing API documentation. A writer must first examine the data, then create the structure of the document.
+
+>To create helpful API documentation, technical writers must include:
+
+>Use cases: As a technical API documentation writer, you would research relevant topics and provide practical examples. You would also create real-world scenarios that are relevant to the subject, highlighting essential features.
+>API functions: As a technical API documentation writer, you would organize each function’s value to the user. For example, you might list the most important and frequently used functions at the top, explaining functions from the most to least promine
+
+- [https://technicalwriterhq.com/career/api-technical-writer/](https://technicalwriterhq.com/career/api-technical-writer/)
+
+When editing existing developer-facing API documentation, you will need to work with your developers in their prefered editor. Some teams prefer [SwaggerHub](https://app.swaggerhub.com/) or [GitHub](https://docs.github.com/). Both offer an API documentation automation option. If this is being used, you should improve the readability of the API documentation by adding the annotations `@Parameter`, `@Operation`, `@ApiResponses`, `@ApiResponse`, and `@Schema`
+
